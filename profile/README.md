@@ -1,6 +1,6 @@
 ## Auto Plugin
 
-We are committed to creating the smallest, simplest, and most effective plugins using pure JavaScript or CSS
+We are committed to creating the smallest, simplest, and most effective plugins
 
 Auto Plugin Open Source Alliance:
 ﻿
@@ -10,4 +10,4 @@ This alliance is a loose alliance, and if you believe that your tool is automate
 If you wish to join this alliance, you can send an application email to this email address:`larryzhu@foxmail.com`. The auto plugin organization will conduct a simple evaluation of your plugin, and whether it passes or not, you will receive a clear reply
 ﻿
 ﻿
-> So when you see this label in the self description file of an open source software, it indicates that the software has passed the review of this alliance, and it will be very easy to use
+> So when you see this label in the self description file of an open source software, it indicates that the software has passed the review of this organization, and it will be very easy to use
